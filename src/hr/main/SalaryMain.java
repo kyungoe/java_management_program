@@ -8,7 +8,7 @@ public class SalaryMain {
 	private String inputYear;
 	private String inputMonth;
 	private String id;
-	private String searchId;
+	private String searchIdsdsds;
 	private SalaryDAO sdao = new SalaryDAO();
 	private SalaryVO svo = new SalaryVO();
 	
